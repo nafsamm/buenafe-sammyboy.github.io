@@ -1,0 +1,108 @@
+*{
+  background-color: lightyellow;
+  text-align: center;
+}
+h2{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  background-color: black;
+}
+h2:visited {
+  color: #B8255F;
+  background-color: darkred;
+}
+h2:hover {
+  color: #FAD000;
+  background-color: blue;
+}
+h2:active {
+  color: #299438;
+  background-color: #CCAC93;
+}
+
+h5:link{
+  color: #FF0000;
+}
+h5:visited {
+  color: #B8255F;
+  background-color: darkred;
+}
+h5:hover {
+  color: #FAD000;
+  background-color: blue;
+}
+h5:active {
+  color: #299438;
+  background-color: #CCAC93;
+}
+
+p:link{
+  color: blue;
+  background-color: yellow;
+}
+p:visited{
+  color: red;
+ background-color: blue;
+}
+p:hover{
+  color: green;
+  background-color: darkred;
+}
+p:active{
+  color: yellow;
+  background-color: salmon;
+}
+h1{
+  font-size: 20px;
+}
+h1:link{
+  color: blue;
+  background-color: yellow;
+}
+h1:visited{
+  color: red;
+ background-color: blue;
+}
+p:visited{
+  color: red;
+ background-color: blue;
+}
+h1:hover{
+  color: green;
+  background-color: darkred;
+}
+h1:active{
+  color: yellow;
+  background-color: salmon;
+}
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:link{
+  color: blue;
+  background-color: yellow;
+}
+button:visited{
+  color: red;
+ background-color: blue;
+}
+button:hover{
+  color: green;
+  background-color: darkred;
+}
+button:active{
+  color: yellow;
+  background-color: salmon;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+}
+.sam{
+    background-color: rgb(74, 90, 36);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.sam h1{
+    font-family: 'Courier New';
+}
+
+.sam h2{
+    font-family: 'Courier New';
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
